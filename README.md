@@ -19,7 +19,7 @@ The core idea is to combine multiple volatility models — including classical e
 
 **Gestion Quantitative, Université Paris-Dauphine**
 
-- Alex Dhenin
+- Dhenin
 - Lefevre
 - Manelli
 - Nitcheu
